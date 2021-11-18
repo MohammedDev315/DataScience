@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-
 df = pd.read_csv('northwind.csv')
 df = df.astype({
     "CategoryCategoryName": str,
@@ -11,16 +10,13 @@ df = df.astype({
     "OrderShipRegion" :str
 })
 
-
-
-
 mask_county = (df.loc[: , "OrderShipRegion" ] == "Western Europe")\
               | (df.loc[: , "OrderShipRegion" ] == "South America")\
               | (df.loc[: , "OrderShipRegion" ] == "North America")\
               | (df.loc[: , "OrderShipRegion" ] == "Southern Europe")\
               | (df.loc[: , "OrderShipRegion" ] == "British Isles")
 
-#
+#all Countries
 df_pivot = df.pivot_table(
     index= "CategoryCategoryName", # the rows (turned into index)
     columns= "OrderShipRegion", # the column values
@@ -28,6 +24,7 @@ df_pivot = df.pivot_table(
     aggfunc=np.sum, # group operation
 )
 
+#Using Mask
 # df_pivot = df.loc[ mask_county ].pivot_table(
 #     index= "CategoryCategoryName", # the rows (turned into index)
 #     columns= "OrderShipRegion", # the column values
