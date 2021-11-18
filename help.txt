@@ -1,0 +1,12 @@
+For pushing 
+Git push origin master
+
+
+
+
+For get previous version 
+#first open file that we want to revert
+#get code of change from history 
+git commit -m "delete"
+  git revert  72f6903e228a80e9d9b412c9a9f7b9b2d271ebf2
+ git push origin

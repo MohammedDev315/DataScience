@@ -1,0 +1,5 @@
+
+
+Sql-pair1.sal
+Database that was used is sqlLit
+
