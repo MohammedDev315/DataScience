@@ -23,9 +23,28 @@ The Northwind database contains the sales data for a fictitious company called â
 
 ## Project Description:
 * Cleaning data was done using different methods such as using measures of central tendency and variability as well as checking for null values and duplication : <a href="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/basic_data_checking.py"> Show code </a>
-* Database has several regions and to choose top five regions, comparison among these regions done using those code : <a href="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/comparison_between_regions.py">First Page</a> , <a href="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/products_growth_among_countries.py">Second Page</a>
+* Database has several regions and to choose top five regions, comparison among these regions done using those code : <a href="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/comparison_between_regions.py">First Page</a> 
+<br>
+<img src="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/Images/Figure_Value%20of%20porduct.png?raw=true">
+<br>
+<a href="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/products_growth_among_countries.py">Second Page</a>
+<img src="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/Images/Figure_Product%20Growth.png?raw=true">
+<br>
 * To select the most common products you can see this code <a href="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/product_waffle.py">Open</a>
+<img src="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/Images/Figure_3.png?raw=true">
+<br>
 * To understand repetation of one product over one year : <a href="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/one_product_repeteation.py"> Open</a>
+<img src="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/Images/Figure_Be_we.png?raw=true">
+<br>
+
+<img src="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/Images/Figure_Se_we.png?raw=true">
+<br>
+
+<img src="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/Images/Figure_be_no.png?raw=true">
+<br>
+
+<img src="https://github.com/MohammedDev315/DataScience/blob/master/EDA_Northwind_Project/Images/Figure_co_no.png?raw=true">
+<br>
 
 
 ## Communication:
