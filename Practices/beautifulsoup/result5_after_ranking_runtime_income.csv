@@ -1,0 +1,658 @@
+filem_name,genre,director_rank,director,sum_of_first_five,film_income,runtime_minuts,release_year
+The Grudge,"Mystery & Thriller, Horror",10514,Nicolas Pesce,47521,21200000,94,2020
+Like a Boss,Comedy,11262,Miguel Arteta,46247,22100000,83,2020
+Bad Boys for Life,"Action, Comedy",11591,"Adil El Arbi, Bilall Fallah",65925,204300000,124,2020
+Dolittle,"Comedy, Kids & Family, Adventure, Fantasy",11526,Stephen Gaghan,65767,77000000,100,2020
+The Gentlemen,"Comedy, Crime, Drama",11960,Guy Ritchie,57020,36500000,113,2020
+The Turning,"Mystery & Thriller, Horror",0,Floria Sigismondi,40416,15500000,93,2020
+The Last Full Measure,"Drama, War",8302,Todd Robinson,48176,2900000,116,2020
+The Rhythm Section,"Action, Mystery & Thriller",8591,Reed Morano,35543,4900000,109,2020
+Gretel & Hansel,"Fantasy, Horror",9856,Oz Perkins,28782,15300000,87,2020
+The Lodge,"Mystery & Thriller, Horror",8457,"Veronika Franz, Severin Fiala",42229,2100000,108,2020
+Sonic the Hedgehog,"Kids & Family, Adventure, Fantasy, Comedy",11464,Jeff Fowler,61741,146700000,100,2020
+Downhill,"Drama, Comedy",10253,"Nat Faxon, Jim Rash",40918,8300000,85,2020
+The Call of the Wild,"Adventure, Drama",0,Christopher Sanders,63597,62100000,100,2020
+Brahms: The Boy II,"Mystery & Thriller, Horror",11345,William Brent Bell,41443,12600000,86,2020
+The Invisible Man,"Mystery & Thriller, Horror",11427,Leigh Whannell,53189,64300000,124,2020
+Onward,"Animation, Fantasy, Kids & Family, Adventure, Comedy",11760,Dan Scanlon,47057,60400000,103,2020
+The Burnt Orange Heresy,Mystery & Thriller,7956,Giuseppe Capotondi,43549,14380000,99,2020
+First Cow,"Western, Drama",8472,Kelly Reichardt,43565,16100000,122,2020
+Bloodshot,"Action, Adventure, Fantasy",0,Dave Wilson,58727,10100000,109,2020
+I Still Believe,"Romance, Biography, Drama, Music",11147,"Jon Erwin, Andrew Erwin",39935,9100000,115,2020
+The Roads Not Taken,Drama,8958,Sally Potter,56326,330000,85,2020
+Insidious: The Last Key,"Mystery & Thriller, Horror",11553,Adam Robitel,28988,67300000,103,2018
+The Commuter,"Mystery & Thriller, Action",11823,Jaume Collet-Serra,42369,36300000,104,2018
+Proud Mary,"Action, Mystery & Thriller",11343,Babak Najafi,53187,20200000,88,2018
+12 Strong,"Drama, War",10765,Nicolai Fuglsig,59513,44300000,130,2018
+Den of Thieves,"Mystery & Thriller, Crime, Drama, Action",10849,Christian Gudegast,45975,44900000,140,2018
+Forever My Girl,"Romance, Music, Drama",9581,Bethany Ashton Wolf,34825,16400000,108,2018
+Maze Runner: The Death Cure,"Sci-Fi, Action, Adventure, Mystery & Thriller",11804,Wes Ball,67298,57400000,142,2018
+A Fantastic Woman,"Lgbtq+, Drama",0,Sebastián Lelio,23259,2000000,103,2018
+Fifty Shades Freed,"Drama, Romance",11801,James Foley,45983,100400000,105,2018
+The 15:17 to Paris,"Mystery & Thriller, Drama",11976,Clint Eastwood,35695,36200000,94,2018
+Black Panther,"Action, Adventure, Fantasy",11897,Ryan Coogler,49556,700200000,134,2018
+Early Man,"Kids & Family, Adventure, Animation, Comedy",11633,Nick Park,59049,8200000,89,2018
+The Party,"Comedy, Drama",8958,Sally Potter,36134,74890000,71,2018
+Black '47,"Mystery & Thriller, History, Drama",7328,Lance Daly,42958,4930000,100,2018
+Samson,"Action, Adventure",8367,Bruce Macdonald,39928,4700000,110,2018
+Game Night,"Action, Comedy",11348,"John Francis Daley, Jonathan M. Goldstein",39544,69000000,100,2018
+Annihilation,"Mystery & Thriller, Adventure, Sci-Fi",10858,Alex Garland,45364,32700000,115,2018
+Every Day,"Fantasy, Drama, Romance",11328,Michael Sucsy,31582,6100000,95,2018
+Red Sparrow,Mystery & Thriller,11977,Francis Lawrence,43675,46700000,139,2018
+Death Wish,"Action, Mystery & Thriller",11565,Eli Roth,39996,34000000,107,2018
+A Wrinkle in Time,"Sci-Fi, Kids & Family, Adventure, Fantasy",0,Ava DuVernay,46788,100500000,109,2018
+Gringo,"Action, Comedy",9290,Nash Edgerton,47259,4900000,110,2018
+Thoroughbreds,"Mystery & Thriller, Comedy",8046,Cory Finley,43230,2700000,90,2018
+The Death of Stalin,Comedy,10199,Armando Iannucci,61651,8000000,107,2018
+The Strangers: Prey at Night,"Mystery & Thriller, Horror",11219,Johannes Roberts,42215,24400000,85,2018
+The Hurricane Heist,"Action, Mystery & Thriller",11885,Rob Cohen,47988,6100000,103,2018
+Tomb Raider,"Action, Adventure",11424,Roar Uthaug,40117,57300000,118,2018
+"Love, Simon","Lgbtq+, Drama, Romance, Comedy",11246,Greg Berlanti,45669,40800000,110,2018
+I Can Only Imagine,"Biography, Drama, Music",0,The Erwin Brothers,41139,83500000,110,2018
+7 Days in Entebbe,"Mystery & Thriller, History, Drama",0,José Padilha,42272,2900000,107,2018
+Flower,"Drama, Comedy",5135,Max Winkler,36607,32740000,90,2018
+Isle of Dogs,"Adventure, Animation, Comedy",11675,Wes Anderson,73292,31900000,101,2018
+Sherlock Gnomes,"Mystery & Thriller, Animation, Kids & Family, Adventure, Comedy",11749,John Stevenson,48977,43100000,86,2018
+Unsane,"Horror, Mystery & Thriller",11954,Steven Soderbergh,33146,7700000,98,2018
+"Paul, Apostle of Christ",Drama,9985,Andrew Hyatt,36787,17500000,108,2018
+Final Portrait,"Biography, Drama, Comedy",9739,Stanley Tucci,53391,46090000,90,2018
+Midnight Sun,"Drama, Romance",11292,Scott Speer,41268,9600000,91,2018
+Ready Player One,"Sci-Fi, Action, Adventure, Fantasy",11999,Steven Spielberg,46932,137000000,140,2018
+God's Not Dead: A Light in Darkness,Drama,8814,Michael Mason,58266,5700000,106,2018
+Gemini,Mystery & Thriller,6461,Aaron Katz,39579,12350000,93,2018
+A Quiet Place,"Mystery & Thriller, Horror",11722,John Krasinski,47364,68400000,90,2018
+Blockers,Comedy,10964,Kay Cannon,45589,59800000,102,2018
+Chappaquiddick,"Mystery & Thriller, History, Drama",10086,John Curran,41832,17400000,101,2018
+Beirut,"Mystery & Thriller, Drama",11006,Brad Anderson,48323,5000000,109,2018
+The Seagull,Drama,9914,Michael Mayer,42650,1200000,98,2018
+Rampage,"Action, Adventure, Sci-Fi",11874,Brad Peyton,45061,99300000,107,2018
+Super Troopers 2,Comedy,11286,Jay Chandrasekhar,40276,30600000,103,2018
+Traffik,"Mystery & Thriller, Action",10953,Deon Taylor,56024,9200000,96,2018
+Avengers: Infinity War,"Action, Adventure, Sci-Fi, Fantasy",11998,"Anthony Russo, Joe Russo",79852,678800000,149,2018
+Disobedience,"Lgbtq+, Drama, Romance",0,Sebastián Lelio,47832,3500000,114,2018
+Overboard,"Romance, Comedy",10936,Rob Greenberg,46805,50200000,112,2018
+Tully,"Drama, Comedy",11715,Jason Reitman,41050,9200000,94,2018
+Deadpool 2,"Action, Adventure, Fantasy, Comedy",11909,David Leitch,48054,324300000,120,2018
+Book Club,"Romance, Comedy",10938,Bill Holderman,47344,68500000,104,2018
+First Reformed,"Mystery & Thriller, Drama",11020,Paul Schrader,48517,3400000,113,2018
+Show Dogs,"Kids & Family, Adventure, Comedy",11934,Raja Gosnell,72552,17700000,92,2018
+Solo: A Star Wars Story,"Fantasy, Action, Adventure, Sci-Fi",11987,Ron Howard,48006,213800000,135,2018
+How to Talk to Girls at Parties,"Romance, Sci-Fi",9323,John Cameron Mitchell,39397,8040000,102,2018
+American Animals,"Mystery & Thriller, Crime, Drama",8862,Bart Layton,33549,2900000,116,2018
+Ocean's 8,"Crime, Drama, Comedy",11850,Gary Ross,49222,139400000,110,2018
+Hereditary,"Mystery & Thriller, Horror",11127,Ari Aster,38825,44100000,127,2018
+Hotel Artemis,"Action, Mystery & Thriller",9388,Drew Pearce,46672,6700000,93,2018
+Superfly,"Mystery & Thriller, Crime, Drama, Action",0,Director X.,31244,20500000,116,2018
+Incredibles 2,"Animation, Action, Kids & Family, Adventure, Comedy",11978,Brad Bird,48992,608600000,118,2018
+Tag,Comedy,10815,Jeff Tomsic,47873,54500000,100,2018
+On Chesil Beach,"Drama, Romance",9929,Dominic Cooke,43488,74160000,110,2018
+Gotti,"Biography, Crime, Drama",8699,Kevin Connolly,46255,4300000,105,2018
+Jurassic World: Fallen Kingdom,"Action, Mystery & Thriller, Adventure, Sci-Fi",11906,Juan Antonio Bayona,57613,416700000,128,2018
+Boundaries,"Drama, Comedy",10612,Shana Feste,42607,69840000,104,2018
+Damsel,"Western, Comedy",6492,"David Zellner, Nathan Zellner",44407,28280000,113,2018
+Sicario: Day of the Soldado,"Mystery & Thriller, Action, Drama, Crime",0,Stefano Sollima,59912,50100000,122,2018
+Leave No Trace,Drama,9916,Debra Granik,34377,6000000,108,2018
+Uncle Drew,Comedy,11026,Charles Stone III,41071,42500000,104,2018
+Woman Walks Ahead,"Western, History, Drama",11031,Susanna White,39855,3450000,102,2018
+Sorry to Bother You,"Fantasy, Sci-Fi, Comedy",9670,Boots Riley,60282,17500000,105,2018
+Hotel Transylvania 3: Summer Vacation,"Animation, Fantasy, Kids & Family, Adventure, Comedy",11881,Genndy Tartakovsky,48151,167500000,97,2018
+Skyscraper,"Action, Mystery & Thriller",11811,Rawson Marshall Thurber,50630,67800000,102,2018
+"Don't Worry, He Won't Get Far on Foot","Biography, Drama, Comedy",11639,Gus Van Sant,42186,1400000,113,2018
+Shock and Awe,Drama,11810,Rob Reiner,45136,4590000,90,2018
+Mamma Mia! Here We Go Again,"Musical, Comedy",11571,Ol Parker,77445,120600000,114,2018
+The Equalizer 2,"Action, Mystery & Thriller",11880,Antoine Fuqua,42140,102000000,121,2018
+Blindspotting,"Drama, Comedy",0,Carlos López Estrada,43927,4300000,95,2018
+Puzzle,Drama,7445,Marc Turtletaub,42541,2000000,103,2018
+Christopher Robin,"Kids & Family, Adventure, Fantasy, Comedy",11907,Marc Forster,55740,99200000,104,2018
+The Darkest Minds,"Mystery & Thriller, Action, Sci-Fi",11857,Jennifer Yuh Nelson,60077,12700000,104,2018
+The Spy Who Dumped Me,"Action, Comedy",10818,Susanna Fogel,42772,33500000,116,2018
+Never Goin' Back,Comedy,6608,Augustine Frizzell,21075,6110000,86,2018
+Dog Days,"Romance, Comedy",10760,Ken Marino,38374,6800000,113,2018
+BlacKkKlansman,"Crime, Drama, Comedy",11705,Spike Lee,58718,48600000,134,2018
+Slender Man,"Mystery & Thriller, Horror",11215,Sylvain White,49910,30500000,93,2018
+Crazy Rich Asians,"Romance, Comedy",11891,Jon M. Chu,66046,174500000,120,2018
+Mile 22,"Mystery & Thriller, Action",11902,Peter Berg,44602,36100000,95,2018
+The Wife,Drama,0,Björn Runge,51195,9600000,100,2018
+"Juliet, Naked","Romance, Music, Comedy",10099,Jesse Peretz,51775,3400000,105,2018
+The Happytime Murders,"Mystery & Thriller, Comedy",10926,Brian Henson,55330,20700000,91,2018
+Papillon,"Biography, Adventure, History, Drama",8863,Michael Noer,35070,2300000,133,2018
+Operation Finale,"Mystery & Thriller, History, Drama",11894,Chris Weitz,51583,17600000,122,2018
+Kin,"Action, Mystery & Thriller, Sci-Fi",9166,"Jonathan Baker, Josh Baker",52521,5700000,102,2018
+Peppermint,"Mystery & Thriller, Action",11539,Pierre Morel,30332,35400000,102,2018
+The Predator,"Action, Adventure, Sci-Fi, Horror",11892,Shane Black,44594,51000000,106,2018
+White Boy Rick,"Biography, Crime, Drama",10102,Yann Demange,40862,24000000,111,2018
+A Simple Favor,"Mystery & Thriller, Comedy",11856,Paul Feig,60188,53500000,117,2018
+The Children Act,Drama,10780,Richard Eyre,54223,43250000,105,2018
+Unbroken: Path to Redemption,"History, Biography, Drama",10976,Harold Cronk,33900,6200000,98,2018
+Life Itself,"Romance, Drama, Comedy",9524,Dan Fogelman,47752,4100000,118,2018
+The Sisters Brothers,"Western, Crime, Drama, Comedy",10583,Jacques Audiard,66270,3100000,120,2018
+Assassination Nation,"Action, Comedy",8118,Sam Levinson,53700,2000000,110,2018
+Colette,"Drama, Biography, History",10628,Wash Westmoreland,29676,5100000,111,2018
+Smallfoot,"Kids & Family, Adventure, Animation, Comedy",11702,Karey Kirkpatrick,47283,83200000,96,2018
+Night School,Comedy,11758,Malcolm D. Lee,59400,77200000,111,2018
+The Old Man & the Gun,"Mystery & Thriller, Drama, Comedy",11257,David Lowery,43242,11100000,93,2018
+Venom,"Action, Adventure, Sci-Fi, Fantasy",11855,Ruben Fleischer,34710,213500000,112,2018
+A Star Is Born,"Drama, Romance, Music",11598,Bradley Cooper,64197,215300000,135,2018
+The Hate U Give,"Crime, Drama",0,George Tillman Jr.,60499,29600000,133,2018
+The Happy Prince,"History, Lgbtq+, Biography, Drama",7516,Rupert Everett,54752,46450000,105,2018
+First Man,"History, Adventure, Biography, Drama",11709,Damien Chazelle,44268,44800000,141,2018
+Bad Times at the El Royale,"Mystery & Thriller, Crime, Drama",11011,Drew Goddard,44754,17800000,141,2018
+Goosebumps 2: Haunted Halloween,"Fantasy, Other, Adventure, Comedy",10424,Ari Sandel,36944,46700000,90,2018
+Beautiful Boy,"Biography, Drama",0,Felix van Groeningen,46110,7600000,112,2018
+The Oath,"Other, Comedy",5113,Ike Barinholtz,52796,38740000,93,2018
+Can You Ever Forgive Me?,"Lgbtq+, Biography, Drama, Comedy",10876,Marielle Heller,48896,8800000,106,2018
+Wildlife,Drama,8097,Paul Dano,43787,1000000,104,2018
+What They Had,Drama,5396,Elizabeth Chomko,42704,25440000,100,2018
+Hunter Killer,"Mystery & Thriller, Action",10068,Donovan Marsh,47076,15700000,121,2018
+Johnny English Strikes Again,"Comedy, Adventure",11218,David Kerr,52026,4300000,88,2018
+Tyler Perry's A Madea Family Funeral,Comedy,11822,Tyler Perry,65405,73200000,109,2019
+Suspiria,"Mystery & Thriller, Horror",10594,Luca Guadagnino,47758,2500000,152,2018
+Bohemian Rhapsody,"History, Drama, Music, Lgbtq+, Biography",11983,Bryan Singer,47483,216300000,135,2018
+The Nutcracker and the Four Realms,"Kids & Family, Other, Adventure, Fantasy",0,"Lasse Hallström, Joe Johnston",63871,54800000,99,2018
+Nobody's Fool,"Romance, Comedy",11822,Tyler Perry,42486,31700000,110,2018
+Boy Erased,"Lgbtq+, Biography, Drama",10761,Joel Edgerton,59419,6700000,115,2018
+A Private War,"War, Biography, Drama",8494,Matthew Heineman,47465,1600000,110,2018
+Bodied,Comedy,10460,Joseph Kahn,20052,11400000,121,2018
+The Front Runner,"Biography, Drama",11715,Jason Reitman,58326,2000000,113,2018
+The Girl in the Spider's Web,"Action, Mystery & Thriller",0,Fede Alvarez,47972,14800000,117,2018
+Overlord,"Action, Mystery & Thriller, Horror",10327,Julius Avery,52564,21700000,110,2018
+Fantastic Beasts: The Crimes of Grindelwald,"Fantasy, Adventure",11993,David Yates,47874,159400000,134,2018
+Widows,"Mystery & Thriller, Crime, Drama",0,Steve McQueen,47731,42400000,128,2018
+Instant Family,"Drama, Comedy",11736,Sean Anders,42590,67300000,119,2018
+Ralph Breaks the Internet,"Adventure, Comedy, Kids & Family, Animation",11672,"Phil Johnston, Rich Moore",48039,201100000,112,2018
+Green Book,"Comedy, Drama",11896,Peter Farrelly,57526,85100000,130,2018
+Robin Hood,"Action, Adventure",10893,Otto Bathurst,62890,30800000,118,2018
+The Favourite,"Drama, Comedy",11096,Yorgos Lanthimos,42518,34200000,120,2018
+Capernaum,Drama,10713,Nadine Labaki,27302,1700000,130,2018
+Mary Queen of Scots,"History, Biography, Drama",10488,Josie Rourke,36284,16400000,124,2018
+Ben Is Back,"Mystery & Thriller, Drama",11150,Peter Hedges,53900,3700000,103,2019
+Spider-Man: Into the Spider-Verse,"Animation, Action, Fantasy, Kids & Family, Adventure, Comedy",11546,"Bob Persichetti, Peter Ramsey, Rodney Rothman",46245,190200000,117,2018
+Escape Room,"Mystery & Thriller, Horror",11553,Adam Robitel,41243,57000000,100,2019
+A Dog's Way Home,"Kids & Family, Adventure, Drama",11419,Charles Martin Smith,52693,42000000,96,2019
+The Upside,"Drama, Comedy",11691,Neil Burger,57653,108200000,126,2019
+Glass,"Mystery & Thriller, Drama",11971,M. Night Shyamalan,47071,111000000,129,2019
+The Kid Who Would Be King,"Kids & Family, Adventure, Fantasy",10230,Joe Cornish,51447,16800000,120,2019
+Serenity,"Mystery & Thriller, Drama",10053,Steven Knight,48371,8500000,103,2019
+Miss Bala,"Action, Mystery & Thriller",11707,Catherine Hardwicke,37861,15000000,104,2019
+Piercing,"Mystery & Thriller, Horror, Comedy",10514,Nicolas Pesce,32877,1420000,81,2019
+What Men Want,"Fantasy, Romance, Comedy",11849,Adam Shankman,41552,54600000,117,2019
+Isn't It Romantic,"Fantasy, Romance, Comedy",10892,Todd Strauss-Schulson,53366,48800000,88,2019
+Happy Death Day 2U,"Mystery & Thriller, Horror, Comedy",11477,Christopher Landon,54929,28000000,100,2019
+Alita: Battle Angel,"Fantasy, Animation, Adventure, Sci-Fi, Action",11904,Robert Rodriguez,45322,85800000,122,2019
+How to Train Your Dragon: The Hidden World,"Animation, Adventure, Fantasy, Kids & Family, Comedy",11908,Dean DeBlois,47929,160800000,104,2019
+Captain Marvel,"Fantasy, Action, Adventure, Sci-Fi",11842,"Anna Boden, Ryan Fleck",48897,426800000,124,2019
+The Kid,"Western, Drama",6996,Vincent D'Onofrio,36446,1500000,100,2019
+Wonder Park,"Animation, Fantasy, Kids & Family, Adventure, Comedy",0,Dylan C. Brown,47569,45200000,85,2019
+Captive State,"Mystery & Thriller, Sci-Fi",11667,Rupert Wyatt,59026,5900000,109,2019
+The Aftermath,"Romance, History, Drama",9495,James Kent,40120,1600000,109,2019
+Five Feet Apart,"Drama, Romance",10950,Justin Baldoni,50373,45700000,116,2019
+Triple Threat,"Action, Sports & Fitness",4657,Jesse V. Johnson,45137,7340000,96,2019
+Us,"Mystery & Thriller, Horror",11656,Jordan Peele,37798,175000000,116,2019
+Hotel Mumbai,"Mystery & Thriller, Drama",9806,Anthony Maras,41461,9600000,125,2019
+Dumbo,"Kids & Family, Drama, Fantasy",11990,Tim Burton,48637,114800000,112,2019
+The Beach Bum,Comedy,10610,Harmony Korine,67920,3500000,95,2019
+Shazam!,"Action, Adventure, Fantasy, Comedy",11777,David F. Sandberg,53352,140400000,132,2019
+Pet Sematary,"Mystery & Thriller, Horror",11057,"Kevin Kolsch, Dennis Widmyer",39180,54700000,101,2019
+The Best of Enemies,"History, Drama",9150,Robin Bissell,51757,10200000,133,2019
+High Life,"Mystery & Thriller, Adventure, Sci-Fi",8753,Claire Denis,42777,1200000,113,2019
+Little,"Fantasy, Comedy",9037,Tina Gordon Chism,54496,40600000,109,2019
+Missing Link,"Kids & Family, Adventure, Animation, Comedy",11149,Chris Butler,60704,16600000,94,2019
+Her Smell,"Drama, Music",5822,Alex Ross Perry,41224,25770000,135,2019
+Breakthrough,Drama,10506,Roxann Dawson,42821,40700000,116,2019
+The Curse of La Llorona,"Mystery & Thriller, Horror",11487,Michael Chaves,54124,54700000,93,2019
+Under the Silver Lake,"Mystery & Thriller, Comedy",9983,David Robert Mitchell,47120,3530000,139,2019
+Family,Comedy,4040,Laura Steinel,31047,12650000,85,2019
+Fast Color,"Mystery & Thriller, Drama, Sci-Fi",4192,Julia Hart,44161,7470000,100,2019
+Avengers: Endgame,"Action, Adventure, Sci-Fi, Fantasy",11998,"Anthony Russo, Joe Russo",79831,858400000,181,2019
+UglyDolls,"Animation, Kids & Family, Adventure, Musical, Comedy",11893,Kelly Asbury,68642,20100000,87,2019
+Pokémon Detective Pikachu,"Comedy, Kids & Family, Adventure, Mystery & Thriller",11913,Rob Letterman,58686,144100000,104,2019
+The Hustle,Comedy,10987,Chris Addison,46593,35400000,94,2019
+Tolkien,"History, Biography, Drama",9058,Dome Karukoski,43801,4500000,112,2019
+Poms,Comedy,9583,Zara Hayes,58650,13600000,91,2019
+A Dog's Journey,"Drama, Fantasy, Kids & Family, Adventure, Comedy",10839,Gail Mancuso,49969,22500000,108,2019
+The Sun Is Also a Star,"Drama, Romance",9939,Ry Russo-Young,48122,4900000,100,2019
+The Souvenir,"Drama, Romance",7181,Joanna Hogg,42189,1000000,119,2019
+The Tomorrow Man,"Drama, Romance",4941,Noble Jones,38160,33180000,94,2019
+Aladdin,"Fantasy, Kids & Family, Adventure, Romance, Musical, Comedy",11960,Guy Ritchie,47763,355600000,128,2019
+Booksmart,"Lgbtq+, Comedy",9948,Olivia Wilde,56429,22700000,102,2019
+Godzilla: King of the Monsters,"Action, Adventure, Sci-Fi",11608,Michael Dougherty,45004,110500000,132,2019
+Rocketman,"Lgbtq+, Biography, Drama, Musical",11390,Dexter Fletcher,43302,96300000,121,2019
+Dark Phoenix,"Fantasy, Action, Adventure, Sci-Fi",11392,Simon Kinberg,46996,65800000,114,2019
+The Secret Life of Pets 2,"Kids & Family, Adventure, Animation, Comedy",11974,Chris Renaud,48561,158200000,86,2019
+Late Night,"Drama, Comedy",9874,Nisha Ganatra,37832,15500000,102,2019
+Downton Abbey,Drama,11293,Michael Engler,45066,96800000,122,2019
+Men in Black: International,"Action, Adventure, Sci-Fi, Comedy",11951,F. Gary Gray,41719,80000000,115,2019
+The Dead Don't Die,"Horror, Comedy",10935,Jim Jarmusch,68720,6500000,103,2019
+Being Frank,Comedy,2477,Miranda Bailey,29729,6540000,109,2019
+Toy Story 4,"Animation, Fantasy, Kids & Family, Adventure, Comedy",11834,Josh Cooley,48879,434000000,100,2019
+Anna,"Action, Mystery & Thriller",11865,Luc Besson,41626,7700000,119,2019
+Child's Play,"Horror, Mystery & Thriller",10446,Lars Klevberg,44554,29200000,90,2019
+Annabelle Comes Home,"Mystery & Thriller, Horror",11368,Gary Dauberman,53938,74100000,106,2019
+Yesterday,"Romance, Music, Comedy",11812,Danny Boyle,66690,73200000,116,2019
+Ophelia,"Romance, Drama",5006,Claire McCarthy,56805,5070000,114,2019
+Spider-Man: Far From Home,"Comedy, Action, Adventure, Fantasy",11939,Jon Watts,49356,390700000,129,2019
+Midsommar,"Mystery & Thriller, Horror",11127,Ari Aster,48757,27400000,145,2019
+Stuber,"Action, Comedy",10480,Michael Dowse,40028,22400000,93,2019
+Crawl,"Mystery & Thriller, Horror",11497,Alexandre Aja,39486,39000000,87,2019
+The Lion King,"Kids & Family, Adventure",11988,Jon Favreau,48693,543600000,118,2019
+Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Comedy",11909,David Leitch,66285,173800000,138,2019
+Dora and the Lost City of Gold,"Kids & Family, Adventure, Mystery & Thriller, Comedy",11724,James Bobin,42861,60500000,102,2019
+The Kitchen,"Crime, Drama",9557,Andrea Berloff,45902,12200000,102,2019
+The Art of Racing in the Rain,"Drama, Comedy",11136,Simon Curtis,32786,26400000,109,2019
+Scary Stories to Tell in the Dark,"Mystery & Thriller, Horror",0,André Øvredal,41430,68700000,111,2019
+The Peanut Butter Falcon,"Adventure, Drama, Comedy",9896,"Tyler Nilson, Michael Schwartz",62551,20500000,96,2019
+After the Wedding,Drama,9757,Bart Freundlich,54343,1600000,112,2019
+The Angry Birds Movie 2,"Kids & Family, Adventure, Animation, Comedy",11199,Thurop Van Orman,46230,41700000,96,2019
+Good Boys,Comedy,11052,Gene Stupnitsky,55277,83100000,95,2019
+Blinded by the Light,"Drama, Music, Comedy",11170,Gurinder Chadha,44757,11900000,114,2019
+"Where'd You Go, Bernadette",Comedy,11491,Richard Linklater,65398,9200000,104,2019
+Angel Has Fallen,"Action, Mystery & Thriller",11372,Ric Roman Waugh,65024,69000000,121,2019
+Brittany Runs a Marathon,"Drama, Comedy",8820,Paul Downs Colaizzo,37932,7100000,103,2019
+Overcomer,Drama,11287,Alex Kendrick,39905,34700000,115,2019
+Official Secrets,"Mystery & Thriller, Drama",11706,Gavin Hood,39072,2000000,112,2019
+Don't Let Go,"Mystery & Thriller, Drama",8465,Jacob Aaron Estes,43351,5200000,103,2019
+The Goldfinch,Drama,10859,John Crowley,44124,5300000,149,2019
+Hustlers,"Drama, Comedy",11240,Lorene Scafaria,44350,105000000,110,2019
+Ad Astra,"Mystery & Thriller, Adventure, Sci-Fi",11374,James Gray,44014,50200000,124,2019
+Rambo: Last Blood,Action,10939,Adrian Grunberg,33596,44800000,89,2019
+Judy,"History, Biography, Drama, Music",10551,Rupert Goold,43051,24300000,118,2019
+Joker,"Crime, Drama",11973,Todd Phillips,35503,335400000,122,2019
+Lucy in the Sky,Drama,4832,Noah Hawley,41788,31500000,124,2019
+Gemini Man,"Fantasy, Action, Mystery & Thriller, Sci-Fi",11916,Ang Lee,58122,48500000,117,2019
+The Addams Family,"Kids & Family, Animation, Comedy",11958,"Conrad Vernon, Greg Tiernan",75351,67300000,87,2019
+Jexi,Comedy,11528,"Jon Lucas, Scott Moore",56907,6500000,84,2019
+Maleficent: Mistress of Evil,"Fantasy, Adventure",0,Joachim Rønning,42565,113900000,118,2019
+Zombieland: Double Tap,"Action, Horror, Comedy",11855,Ruben Fleischer,47490,73100000,99,2019
+Jojo Rabbit,"Drama, Comedy",11817,Taika Waititi,43219,33400000,108,2019
+Black and Blue,"Mystery & Thriller, Crime, Drama, Action",10953,Deon Taylor,37971,22000000,108,2019
+Countdown,"Mystery & Thriller, Horror, Comedy",10396,Justin Dec,29553,25600000,90,2019
+Terminator: Dark Fate,"Action, Sci-Fi",11824,Tim Miller,46747,62200000,128,2019
+Motherless Brooklyn,"Mystery & Thriller, Crime, Drama",0,Ed Norton,66388,9300000,144,2019
+Harriet,"History, Biography, Drama",10766,Kasi Lemmons,44531,43000000,125,2019
+Arctic Dogs,"Kids & Family, Adventure, Animation, Comedy",9174,Aaron Woodley,43758,5800000,93,2019
+Doctor Sleep,"Mystery & Thriller, Horror",11306,Mike Flanagan,54004,31600000,151,2019
+Last Christmas,"Other, Romance, Comedy",11856,Paul Feig,56736,35100000,102,2019
+Midway,"Drama, History, War",11984,Roland Emmerich,48061,56800000,138,2019
+Ford v Ferrari,"Biography, History, Drama",11941,James Mangold,41172,117600000,152,2019
+Charlie's Angels,"Action, Adventure, Comedy",11561,Elizabeth Banks,46047,17800000,118,2019
+Frozen II,"Animation, Kids & Family, Adventure, Musical, Comedy",11962,"Chris Buck, Jennifer Lee",47718,477400000,103,2019
+A Beautiful Day in the Neighborhood,"Biography, Drama",10876,Marielle Heller,44761,61700000,107,2019
+21 Bridges,"Action, Drama, Crime, Mystery & Thriller",10411,Brian Kirk,44747,28500000,99,2019
+Knives Out,"Mystery & Thriller, Crime, Drama, Comedy",11929,Rian Johnson,48575,165400000,130,2019
+Queen & Slim,"Romance, Crime, Drama",10482,Melina Matsoukas,43777,43800000,132,2019
+Playmobil: The Movie,"Adventure, Musical, Kids & Family, Comedy",0,Lino DiSalvo,37878,1100000,99,2019
+The Aeronauts,"Adventure, Drama",10639,Tom Harper,40277,3000000,101,2019
+Jumanji: The Next Level,"Action, Adventure, Fantasy, Comedy",11949,Jake Kasdan,49457,316800000,123,2019
+Richard Jewell,Drama,11976,Clint Eastwood,44989,22300000,131,2019
+Black Christmas,"Mystery & Thriller, Other, Horror",9684,Sophia Takal,39161,10400000,92,2019
+Bombshell,Drama,11926,Jay Roach,47047,31700000,108,2019
+Seberg,"History, Biography, Drama",6791,Benedict Andrews,45687,41380000,103,2019
+A Hidden Life,"Biography, History, Drama",11296,Terrence Malick,36447,1700000,174,2019
+Star Wars: The Rise of Skywalker,"Fantasy, Action, Adventure, Sci-Fi",11991,J.J. Abrams,49646,515200000,142,2019
+Cats,"Musical, Comedy, Drama",11819,Tom Hooper,47037,27200000,110,2019
+Spies in Disguise,"Animation, Action, Kids & Family, Adventure, Comedy",11233,"Troy Quane, Nick Bruno",46322,66700000,102,2019
+Little Women,Drama,11457,Greta Gerwig,43733,108100000,135,2019
+1917,"Drama, History, War",11970,Sam Mendes,41648,159200000,119,2020
+Clemency,Drama,4979,Chinonye Chukwu,36575,36170000,113,2019
+Underworld: Blood Wars,"Fantasy, Action, Horror",0,Anna Foerster,56051,30300000,92,2017
+Monster Trucks,"Action, Adventure, Fantasy, Comedy",11741,Chris Wedge,43568,33200000,105,2017
+The Bye Bye Man,"Mystery & Thriller, Horror",10137,Stacy Title,47050,22400000,96,2017
+Sleepless,"Action, Mystery & Thriller",10362,Baran bo Odar,46076,20700000,95,2017
+Split,"Mystery & Thriller, Horror",11971,M. Night Shyamalan,43572,138100000,117,2017
+The Resurrection of Gavin Stone,"Drama, Comedy",7846,Dallas Jenkins,32221,2300000,92,2017
+Sophie and the Rising Sun,"Drama, History, Romance",5546,Maggie Greenwald,32976,3030000,116,2017
+A Dog's Purpose,"Fantasy, Drama, Comedy",0,Lasse Hallström,48524,64300000,120,2017
+Rings,"Mystery & Thriller, Horror",0,F. Javier Gutiérrez,36757,27800000,97,2017
+The Space Between Us,"Adventure, Romance",11570,Peter Chelsom,55272,7800000,120,2017
+Fifty Shades Darker,"Drama, Romance",11801,James Foley,51557,114400000,118,2017
+John Wick: Chapter 2,"Mystery & Thriller, Action",11695,Chad Stahelski,73997,92000000,122,2017
+The Great Wall,"Action, Adventure, Fantasy",0,Yimou Zhang,62115,45100000,104,2017
+A Cure for Wellness,"Mystery & Thriller, Drama, Horror",11980,Gore Verbinski,52404,7500000,140,2017
+Fist Fight,Comedy,10349,Richie Keen,46088,32200000,91,2017
+Get Out,"Mystery & Thriller, Horror, Comedy",11656,Jordan Peele,58057,176000000,104,2017
+Rock Dog,"Animation, Music, Kids & Family, Adventure, Comedy",9926,Ash Brannon,43678,9400000,90,2017
+Collide,"Action, Mystery & Thriller",9076,Eran Creevy,47997,2200000,94,2017
+Logan,"Action, Adventure, Fantasy",11941,James Mangold,63958,226300000,137,2017
+The Shack,Drama,10985,Stuart Hazeldine,54022,57200000,132,2017
+Before I Fall,"Mystery & Thriller, Drama",9939,Ry Russo-Young,54845,12200000,100,2017
+Table 19,"Drama, Comedy",9357,Jeffrey Blitz,43505,3600000,87,2017
+The Last Word,"Drama, Comedy",11055,Mark Pellington,47644,1800000,108,2017
+Kong: Skull Island,"Fantasy, Action, Adventure, Sci-Fi",11692,Jordan Vogt-Roberts,49495,168000000,118,2017
+Beauty and the Beast,"Kids & Family, Romance, Musical, Fantasy",11968,Bill Condon,49122,504000000,129,2017
+Song to Song,"Romance, Drama, Music",11296,Terrence Malick,48529,42190000,129,2017
+Wilson,Comedy,8680,Craig Johnson,41118,65300000,94,2017
+Ghost in the Shell,"Action, Adventure, Sci-Fi",11694,Rupert Sanders,52666,40500000,107,2017
+The Boss Baby,"Kids & Family, Adventure, Animation, Comedy",11965,Tom McGrath,63056,174900000,97,2017
+The Zookeeper's Wife,"Biography, History, Drama",11309,Niki Caro,26801,17400000,125,2017
+The Blackcoat's Daughter,"Mystery & Thriller, Horror",9856,Oz Perkins,41562,2000000,93,2017
+The Case for Christ,"Biography, Drama",10181,Jon Gunn,39327,14700000,112,2017
+Smurfs: The Lost Village,"Animation, Fantasy, Kids & Family, Adventure, Comedy",11893,Kelly Asbury,43080,45000000,91,2017
+Going in Style,Comedy,11107,Zach Braff,46786,45000000,96,2017
+Colossal,"Fantasy, Comedy",8513,Nacho Vigalondo,39782,3000000,110,2017
+Gifted,Drama,11899,Marc Webb,44006,24800000,101,2017
+The Fate of the Furious,"Action, Adventure, Mystery & Thriller",11951,F. Gary Gray,49553,225700000,136,2017
+The Lost City of Z,"Biography, Adventure, History, Drama",11374,James Gray,60917,8600000,141,2017
+My Entire High School Sinking Into the Sea,"Adventure, Animation, Comedy",3011,Dash Shaw,37124,5730000,72,2017
+Unforgettable,Mystery & Thriller,9571,Denise Di Novi,37887,11300000,100,2017
+The Circle,"Mystery & Thriller, Drama, Sci-Fi",10541,James Ponsoldt,47149,20500000,110,2017
+How to Be a Latin Lover,Comedy,10760,Ken Marino,45659,32100000,115,2017
+Guardians of the Galaxy Vol. 2,"Fantasy, Action, Adventure, Sci-Fi, Comedy",11931,James Gunn,49916,389800000,135,2017
+3 Generations,"Lgbtq+, Drama, Comedy",7034,Gaby Dellal,52570,6640000,94,2017
+King Arthur: Legend of the Sword,"Action, Adventure, Fantasy",11960,Guy Ritchie,60829,39100000,126,2017
+Snatched,"Action, Adventure, Comedy",11488,Jonathan Levine,45690,45800000,90,2017
+Lowriders,Drama,8625,Ricardo de Montreuil,36819,6200000,99,2017
+Alien: Covenant,"Mystery & Thriller, Sci-Fi, Horror",11986,Ridley Scott,63654,74200000,122,2017
+"Everything, Everything","Drama, Romance",10866,Stella Meghie,36967,34100000,96,2017
+Wakefield,Drama,6194,Robin Swicord,49620,25940000,109,2017
+Baywatch,"Action, Comedy",11753,Seth Gordon,72781,58000000,116,2017
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy",0,"Joachim Rønning, Espen Sandberg",47500,172500000,123,2017
+Wonder Woman,"Action, Adventure, Fantasy",11828,Patty Jenkins,45186,412800000,141,2017
+Captain Underpants: The First Epic Movie,"Kids & Family, Adventure, Animation, Comedy",11583,David Soren,42096,73900000,89,2017
+The Mummy,"Action, Adventure, Fantasy, Horror",11589,Alex Kurtzman,47714,80100000,107,2017
+It Comes at Night,"Mystery & Thriller, Horror",9864,Trey Edward Shults,48226,14000000,97,2017
+My Cousin Rachel,"Mystery & Thriller, Romance, Drama",11657,Roger Michell,41406,2700000,106,2017
+Megan Leavey,"Drama, Biography, War",9643,Gabriela Cowperthwaite,57489,13400000,116,2017
+Beatriz at Dinner,Comedy,11262,Miguel Arteta,44985,7100000,83,2017
+Cars 3,"Kids & Family, Adventure, Animation, Comedy",11558,Brian Fee,44728,152900000,109,2017
+Rough Night,Comedy,10465,Lucia Aniello,63339,22100000,96,2017
+The Book of Henry,"Mystery & Thriller, Drama",11915,Colin Trevorrow,45559,4200000,100,2017
+Transformers: The Last Knight,"Fantasy, Action, Adventure, Sci-Fi",11995,Michael Bay,40278,130100000,148,2017
+The Beguiled,"History, Drama",11393,Sofia Coppola,41597,10500000,94,2017
+The Big Sick,"Romance, Comedy",10798,Michael Showalter,45375,42900000,120,2017
+The Bad Batch,"Mystery & Thriller, Horror",6108,Ana Lily Amirpour,61459,18090000,118,2017
+Baby Driver,"Action, Mystery & Thriller",11622,Edgar Wright,47441,107800000,113,2017
+Despicable Me 3,"Comedy, Kids & Family, Adventure, Animation",11982,"Pierre Coffin, Kyle Balda",47706,264600000,90,2017
+The Little Hours,Comedy,7274,Jeff Baena,43023,1600000,90,2017
+Spider-Man: Homecoming,"Action, Comedy, Adventure, Fantasy",11939,Jon Watts,73848,334400000,133,2017
+War for the Planet of the Apes,"Action, Adventure, Sci-Fi",11883,Matt Reeves,64299,146800000,142,2017
+Dunkirk,"Drama, History, War",11992,Christopher Nolan,56427,188000000,107,2017
+Girls Trip,Comedy,11758,Malcolm D. Lee,41367,115100000,122,2017
+Atomic Blonde,"Mystery & Thriller, Action, Lgbtq+",11909,David Leitch,44165,51500000,115,2017
+The Emoji Movie,"Animation, Kids & Family, Adventure, Comedy",11396,Anthony Leondis,47138,86100000,86,2017
+Detroit,"Drama, Crime",11549,Kathryn Bigelow,43018,16800000,143,2017
+Brigsby Bear,Comedy,5804,Dave McCary,31230,53260000,97,2017
+The Dark Tower,"Fantasy, Adventure, Action",11140,Nikolaj Arcel,43403,50700000,95,2017
+Wind River,"Mystery & Thriller, Drama, Crime",10680,Taylor Sheridan,37059,33800000,111,2017
+The Glass Castle,"Biography, Drama",11647,Destin Daniel Cretton,52880,17200000,127,2017
+The Nut Job 2: Nutty by Nature,"Kids & Family, Adventure, Animation, Comedy",11361,Cal Brunker,45910,28300000,91,2017
+Good Time,"Mystery & Thriller, Crime, Drama",0,"Joshua Safdie, Ben Safdie",43175,2000000,101,2017
+Ingrid Goes West,"Drama, Comedy",7906,Matt Spicer,55147,3000000,98,2017
+The Only Living Boy in New York,"Romance, Drama",11899,Marc Webb,47653,62300000,90,2017
+The Hitman's Bodyguard,"Action, Comedy",11624,Patrick Hughes,48060,75400000,118,2017
+Logan Lucky,"Crime, Drama, Comedy",11954,Steven Soderbergh,65087,27800000,119,2017
+Film Stars Don't Die in Liverpool,"History, Romance, Biography, Drama",11229,Paul McGuigan,60951,1000000,106,2017
+Tulip Fever,"Drama, History, Romance",11042,Justin Chadwick,41204,2400000,107,2017
+It,"Mystery & Thriller, Horror",11632,Andy Muschietti,55836,327500000,135,2017
+Home Again,"Romance, Comedy",10285,Hallie Meyers-Shyer,58119,27000000,97,2017
+9/11,Drama,4104,Martin Guigui,53934,17200000,90,2017
+American Assassin,"Action, Mystery & Thriller",10803,Michael Cuesta,62811,36200000,111,2017
+Brad's Status,"Drama, Comedy",8345,Mike White,41173,2100000,102,2017
+Kingsman: The Golden Circle,"Action, Adventure, Comedy",11886,Matthew Vaughn,48201,100200000,141,2017
+Stronger,"Biography, Drama",11698,David Gordon Green,41185,4200000,119,2017
+Battle of the Sexes,"Drama, Comedy",11123,"Valerie Faris, Jonathan Dayton",41374,12600000,121,2017
+Woodshock,Drama,1610,"Kate Mulleavy, Laura Mulleavy",34767,4110000,101,2017
+Victoria & Abdul,"Biography, History, Drama",11710,Stephen Frears,39430,22200000,110,2017
+American Made,"Adventure, Comedy, Drama",11895,Doug Liman,60903,51300000,115,2017
+Flatliners,"Mystery & Thriller, Sci-Fi",10701,Niels Arden Oplev,40973,16900000,108,2017
+Mark Felt: The Man Who Brought Down the White House,"Biography, History, Drama",10574,Peter Landesman,40043,76790000,103,2017
+Blade Runner 2049,"Mystery & Thriller, Sci-Fi",11830,Denis Villeneuve,46491,91500000,164,2017
+The Mountain Between Us,"Romance, Adventure, Drama",10694,Hany Abu-Assad,53235,30300000,104,2017
+My Little Pony: The Movie,"Animation, Fantasy, Kids & Family, Adventure, Comedy",10664,Jayson Thiessen,66754,21800000,99,2017
+The Florida Project,Drama,9331,Sean Baker,43427,5800000,115,2017
+Happy Death Day,"Mystery & Thriller, Horror, Comedy",11477,Christopher Landon,49368,55700000,96,2017
+Marshall,"Biography, History, Drama",10829,Reginald Hudlin,47733,10000000,118,2017
+Goodbye Christopher Robin,"History, Biography, Drama",11136,Simon Curtis,49997,1700000,107,2017
+Geostorm,"Action, Adventure, Sci-Fi",11360,Dean Devlin,62178,33400000,109,2017
+Only the Brave,"Adventure, Drama",11744,Joseph Kosinski,46606,18100000,134,2017
+Same Kind of Different as Me,Drama,8665,Michael Carney,46930,6400000,119,2017
+Wonderstruck,"Adventure, Drama",11076,Todd Haynes,55460,1000000,117,2017
+The Killing of a Sacred Deer,"Mystery & Thriller, Horror",11096,Yorgos Lanthimos,55482,2300000,121,2017
+Thank You for Your Service,"Drama, Biography, War",9107,Jason Hall,52177,9400000,108,2017
+Suburbicon,"Mystery & Thriller, Comedy",11551,George Clooney,49286,5700000,105,2017
+Jigsaw,"Mystery & Thriller, Horror",11321,"Michael Spierig, Peter Spierig",52113,38000000,92,2017
+Novitiate,Drama,0,Maggie Betts,34138,55650000,123,2017
+All I See Is You,Drama,11907,Marc Forster,50018,580000,110,2017
+Amityville: The Awakening,"Mystery & Thriller, Horror",8870,Franck Khalfoun,33661,742,85,2017
+Thor: Ragnarok,"Fantasy, Adventure, Sci-Fi, Action, Comedy",11817,Taika Waititi,49443,315000000,130,2017
+A Bad Moms Christmas,"Other, Comedy",11528,"Jon Lucas, Scott Moore",46605,72100000,104,2017
+Last Flag Flying,"Drama, Comedy",11491,Richard Linklater,58018,96030000,124,2017
+Lady Bird,"Drama, Comedy",11457,Greta Gerwig,46183,48900000,94,2017
+Murder on the Orient Express,"Mystery & Thriller, Crime, Drama",11914,Kenneth Branagh,73105,101500000,114,2017
+Daddy's Home 2,"Comedy, Other",11736,Sean Anders,48214,104000000,98,2017
+LBJ,"Biography, History, Drama",11810,Rob Reiner,38754,2500000,98,2017
+"Three Billboards Outside Ebbing, Missouri","Drama, Crime, Comedy",11365,Martin McDonagh,40461,54100000,115,2017
+Justice League,"Action, Adventure, Fantasy",11972,Zack Snyder,49148,227000000,119,2017
+The Star,"Animation, Kids & Family, Other, Adventure, Comedy",10681,Timothy Reckart,73029,40400000,86,2017
+"Roman J. Israel, Esq.","Mystery & Thriller, Crime, Drama",10689,Dan Gilroy,48431,11700000,117,2017
+Darkest Hour,"War, Biography, History, Drama",11754,Joe Wright,46336,56300000,125,2017
+The Man Who Invented Christmas,"Biography, Other, History, Drama",10060,Bharat Nalluri,40672,5700000,104,2017
+Call Me by Your Name,"Lgbtq+, Drama, Romance",10594,Luca Guadagnino,31637,18000000,132,2018
+The Disaster Artist,"Drama, Comedy",10069,James Franco,48331,21100000,103,2017
+The Shape of Water,"Fantasy, Romance",11853,Guillermo del Toro,42726,63300000,123,2017
+Wonder Wheel,Drama,11873,Woody Allen,41941,1200000,101,2017
+"I, Tonya","Comedy, Drama, Biography",11576,Craig Gillespie,43204,30000000,121,2018
+Just Getting Started,"Other, Comedy",11479,Ron Shelton,60172,5500000,91,2017
+Star Wars: The Last Jedi,"Fantasy, Action, Adventure, Sci-Fi",11929,Rian Johnson,49646,620200000,152,2017
+Ferdinand,"Adventure, Comedy, Kids & Family, Animation",11969,Carlos Saldanha,46017,84200000,108,2017
+Jumanji: Welcome to the Jungle,"Action, Adventure, Fantasy, Comedy",11949,Jake Kasdan,73405,404600000,119,2017
+The Greatest Showman,"History, Biography, Drama, Musical",11600,Michael Gracey,48940,174000000,105,2017
+Pitch Perfect 3,"Musical, Comedy",11412,Trish Sie,47749,104900000,94,2017
+Downsizing,"Fantasy, Drama, Sci-Fi, Comedy",11648,Alexander Payne,68642,24400000,135,2017
+Father Figures,Comedy,0,Lawrence Sher,44860,16800000,113,2017
+The Post,"History, Drama",11999,Steven Spielberg,39218,81400000,115,2018
+Hostiles,"Western, History, Drama",11341,Scott Cooper,45954,29800000,133,2018
+All the Money in the World,"Mystery & Thriller, Crime, Drama",11986,Ridley Scott,41907,24800000,132,2017
+Molly's Game,"Biography, Drama",10568,Aaron Sorkin,42283,28700000,141,2018
+Phantom Thread,"Romance, Drama",11467,Paul Thomas Anderson,41675,20900000,130,2018
+Anesthesia,Drama,9594,Tim Blake Nelson,39505,2240000,89,2016
+Ride Along 2,"Action, Comedy",11884,Tim Story,45979,90800000,101,2016
+13 Hours: The Secret Soldiers of Benghazi,"Mystery & Thriller, Drama, War",11995,Michael Bay,51278,52800000,144,2016
+Norm of the North,"Kids & Family, Adventure, Animation, Comedy",10109,Trevor Wall,44598,17000000,90,2016
+The 5th Wave,"Mystery & Thriller, Adventure, Sci-Fi",0,J Blakeson,52555,34900000,112,2016
+Kung Fu Panda 3,"Kids & Family, Adventure, Animation, Comedy",11857,"Jennifer Yuh Nelson, Alessandro Carloni",47522,143500000,95,2016
+The Finest Hours,"Mystery & Thriller, History, Drama, Action, Adventure",11576,Craig Gillespie,65472,27600000,116,2016
+Fifty Shades of Black,Comedy,10421,Mike Tiddes,60772,11700000,92,2016
+Jane Got a Gun,"Western, Action",0,Gavin O'Connor,42969,1500000,98,2016
+"Hail, Caesar!",Comedy,11846,"Joel Coen, Ethan Coen",48996,30000000,106,2016
+The Choice,"Drama, Romance",9934,Ross Katz,45085,18700000,111,2016
+Deadpool,"Action, Adventure, Fantasy, Comedy",11824,Tim Miller,44945,363100000,108,2016
+How to Be Single,"Romance, Comedy",11027,Christian Ditter,46737,46800000,110,2016
+Race,"History, Biography, Drama",11603,Stephen Hopkins,53423,19100000,134,2016
+Gods of Egypt,"Fantasy, Adventure, Action",11761,Alex Proyas,42476,31100000,121,2016
+Triple 9,"Mystery & Thriller, Crime, Drama, Action",10852,John Hillcoat,71072,12600000,115,2016
+London Has Fallen,"Action, Mystery & Thriller",11343,Babak Najafi,65880,62500000,99,2016
+Whiskey Tango Foxtrot,"War, Biography, Drama, Comedy",11533,"Glenn Ficarra, John Requa",42832,23000000,111,2016
+10 Cloverfield Lane,Mystery & Thriller,11040,Dan Trachtenberg,45150,72100000,103,2016
+The Perfect Match,"Romance, Comedy",11128,Bille Woodruff,48186,9700000,96,2016
+"Hello, My Name Is Doris","Drama, Comedy",10798,Michael Showalter,55903,14400000,90,2016
+The Divergent Series: Allegiant,"Action, Adventure, Sci-Fi",11838,Robert Schwentke,47682,66200000,121,2016
+The Bronze,Comedy,5746,Bryan Buckley,30322,61570000,100,2016
+Midnight Special,"Mystery & Thriller, Sci-Fi",10623,Jeff Nichols,47636,3700000,111,2016
+Batman v Superman: Dawn of Justice,"Action, Fantasy, Adventure, Sci-Fi",11972,Zack Snyder,49113,330200000,153,2016
+My Big Fat Greek Wedding 2,"Romance, Comedy",11543,Kirk Jones,43051,59600000,94,2016
+I Saw the Light,"History, Biography, Drama",8638,Marc Abraham,35850,1600000,123,2016
+Everybody Wants Some!!,Comedy,11491,Richard Linklater,35335,3400000,116,2016
+God's Not Dead 2,Drama,10976,Harold Cronk,39016,20800000,121,2016
+Meet the Blacks,Comedy,10953,Deon Taylor,38151,9100000,93,2016
+Miles Ahead,"History, Biography, Drama, Music",8419,Don Cheadle,52067,2600000,96,2016
+The Boss,Comedy,11388,Ben Falcone,64418,63000000,99,2016
+Demolition,"Drama, Comedy",0,Jean-Marc Vallée,47296,1800000,101,2016
+The Jungle Book,"Kids & Family, Adventure, Action, Fantasy",11988,Jon Favreau,49014,364000000,105,2016
+Barbershop: The Next Cut,Comedy,11758,Malcolm D. Lee,48254,54000000,112,2016
+Criminal,"Action, Mystery & Thriller",10404,Ariel Vromen,49020,14700000,113,2016
+Green Room,"Mystery & Thriller, Horror",8235,Jeremy Saulnier,37761,3200000,94,2016
+The Huntsman: Winter's War,"Action, Adventure, Fantasy",11234,Cedric Nicolas-Troyan,48044,48000000,114,2016
+Elvis & Nixon,Comedy,7174,Liza Johnson,45323,1000000,86,2016
+Keanu,"Action, Comedy",9789,Peter Atencio,65032,20600000,100,2016
+Ratchet & Clank,"Animation, Action, Kids & Family, Adventure, Sci-Fi, Comedy",11078,Kevin Munroe,66463,8800000,94,2016
+Captain America: Civil War,"Action, Adventure, Fantasy",11998,"Anthony Russo, Joe Russo",79676,408100000,146,2016
+Money Monster,"Mystery & Thriller, Drama",11178,Jodie Foster,41091,41000000,98,2016
+Love & Friendship,Comedy,10242,Whit Stillman,42434,14000000,93,2016
+The Angry Birds Movie,"Animation, Action, Kids & Family, Adventure, Comedy",11520,"Clay Kaytis, Fergal Reilly",48514,107500000,93,2016
+Inside Out,"Kids & Family, Animation, Fantasy, Comedy",11952,Pete Docter,45970,2000000,95,2015
+Neighbors 2: Sorority Rising,Comedy,11778,Nicholas Stoller,70370,55300000,92,2016
+The Nice Guys,"Action, Mystery & Thriller, Comedy",11892,Shane Black,44124,36200000,116,2016
+X-Men: Apocalypse,"Action, Adventure, Sci-Fi, Fantasy",11983,Bryan Singer,48650,155000000,143,2016
+Alice Through the Looking Glass,"Fantasy, Adventure",11724,James Bobin,46795,77000000,113,2016
+Teenage Mutant Ninja Turtles: Out of the Shadows,"Action, Adventure, Comedy",0,Dave Green,74422,82000000,107,2016
+Me Before You,"Drama, Romance",11324,Thea Sharrock,44055,56200000,110,2016
+Popstar: Never Stop Never Stopping,"Music, Comedy",10813,"Akiva Schaffer, Jorma Taccone",39062,9400000,86,2016
+The Conjuring 2,"Mystery & Thriller, Horror",11981,James Wan,50275,102500000,133,2016
+Warcraft,"Fantasy, Adventure, Action",11708,Duncan Jones,44620,47200000,123,2016
+Now You See Me 2,"Adventure, Comedy",11891,Jon M. Chu,48927,65000000,129,2016
+Finding Dory,"Kids & Family, Adventure, Animation, Comedy",11964,Andrew Stanton,71764,486200000,103,2016
+Central Intelligence,"Action, Comedy",11811,Rawson Marshall Thurber,60468,127400000,107,2016
+Independence Day: Resurgence,"Action, Adventure, Sci-Fi",11984,Roland Emmerich,43187,103100000,120,2016
+Free State of Jones,"War, Biography, History, Drama",11850,Gary Ross,46961,20800000,139,2016
+The Neon Demon,"Mystery & Thriller, Horror",10947,Nicolas Winding Refn,46039,1300000,117,2016
+The Legend of Tarzan,"Action, Adventure, Drama",11993,David Yates,62912,126600000,110,2016
+The BFG,"Kids & Family, Adventure, Fantasy",11999,Steven Spielberg,44170,55500000,115,2016
+The Purge: Election Year,"Action, Horror, Mystery & Thriller",11486,James DeMonaco,43000,79000000,109,2016
+The Secret Life of Pets,"Kids & Family, Adventure, Animation, Comedy",11974,Chris Renaud,48326,368300000,91,2016
+Captain Fantastic,"Drama, Comedy",9818,Matt Ross,40622,5900000,119,2016
+Mike and Dave Need Wedding Dates,Comedy,10806,Jake Szymanski,45010,46000000,98,2016
+The Infiltrator,"Mystery & Thriller, Biography, Crime, Drama",11248,Brad Furman,44404,15400000,127,2016
+Star Trek Beyond,"Sci-Fi, Action, Adventure, Fantasy",11967,Justin Lin,49274,158800000,122,2016
+Ice Age: Collision Course,"Kids & Family, Adventure, Animation, Comedy",11574,Mike Thurmeier,46137,64000000,94,2016
+Lights Out,"Mystery & Thriller, Horror",11777,David F. Sandberg,52803,67300000,77,2016
+Nerve,"Mystery & Thriller, Action",11606,"Henry Joost, Ariel Schulman",52770,38600000,96,2016
+Jason Bourne,"Action, Mystery & Thriller",11903,Paul Greengrass,45993,162200000,123,2016
+Bad Moms,Comedy,11528,"Jon Lucas, Scott Moore",40818,113200000,101,2016
+Nine Lives,"Fantasy, Comedy",11955,Barry Sonnenfeld,62302,19600000,89,2016
+Pete's Dragon,"Kids & Family, Adventure, Fantasy",11257,David Lowery,37306,555,103,2016
+Sausage Party,"Comedy, Adventure, Animation",11958,"Conrad Vernon, Greg Tiernan",48640,97700000,89,2016
+Florence Foster Jenkins,"Biography, Drama, Music, Comedy",11710,Stephen Frears,40962,27400000,110,2016
+Ben-Hur,"Drama, History, Action, Adventure",11745,Timur Bekmambetov,43015,26400000,125,2016
+Kubo and the Two Strings,"Animation, Action, Fantasy, Kids & Family, Adventure",11682,Travis Knight,64645,48000000,102,2016
+War Dogs,"Drama, Comedy",11973,Todd Phillips,45242,43000000,114,2016
+Mechanic: Resurrection,"Action, Adventure, Mystery & Thriller",11265,Dennis Gansel,55212,21200000,99,2016
+Don't Breathe,"Mystery & Thriller, Horror",0,Fede Alvarez,52402,89200000,88,2016
+Hands of Stone,"History, Biography, Drama",8775,Jonathan Jakubowicz,57486,4700000,105,2016
+The Light Between Oceans,"Romance, Drama",10899,Derek Cianfrance,38923,12500000,133,2016
+Morgan,"Mystery & Thriller, Sci-Fi, Horror",8807,Luke Scott,34521,3900000,88,2016
+When the Bough Breaks,Drama,10115,Jon Cassar,56730,29700000,102,2016
+Bridget Jones's Baby,"Romance, Comedy",11642,Sharon Maguire,61516,24100000,122,2016
+Snowden,"Mystery & Thriller, Biography, Drama",11871,Oliver Stone,43998,21600000,134,2016
+The Magnificent Seven,"Western, Adventure, Action",11880,Antoine Fuqua,69063,93400000,128,2016
+Storks,"Kids & Family, Adventure, Animation, Comedy",11778,"Nicholas Stoller, Doug Sweetland",45763,72700000,83,2016
+Miss Peregrine's Home for Peculiar Children,"Mystery & Thriller, Drama, Fantasy, Action, Adventure",11990,Tim Burton,47543,87200000,121,2016
+Queen of Katwe,"Biography, Drama",11099,Mira Nair,41987,8900000,124,2016
+Masterminds,"Action, Comedy",11255,Jared Hess,68107,17300000,95,2016
+The Birth of a Nation,"Biography, History, Drama",9617,Nate Parker,44639,15800000,114,2016
+The Accountant,"Mystery & Thriller, Action, Drama, Crime",0,Gavin O'Connor,66750,86200000,128,2016
+Kevin Hart: What Now?,"Documentary, Comedy",9917,"Leslie Small, Tim Story",59167,23600000,96,2016
+Max Steel,"Fantasy, Action, Adventure, Sci-Fi",10140,Stewart Hendler,42082,3800000,92,2016
+Ouija: Origin of Evil,"Mystery & Thriller, Horror",11306,Mike Flanagan,46735,34900000,99,2016
+American Pastoral,Drama,7208,Ewan McGregor,59152,54150000,108,2016
+Inferno,"Mystery & Thriller, Adventure, Action",11987,Ron Howard,43261,34300000,116,2016
+Doctor Strange,"Action, Adventure, Fantasy",11858,Scott Derrickson,49229,232600000,115,2016
+Trolls,"Animation, Fantasy, Kids & Family, Adventure, Musical, Comedy",11922,"Mike Mitchell, Walt Dohrn",47094,153600000,88,2016
+Hacksaw Ridge,"Biography, Drama, History, War",11844,Mel Gibson,45119,67000000,139,2016
+Loving,"Biography, History, Drama",10623,Jeff Nichols,49408,7600000,123,2016
+Arrival,"Mystery & Thriller, Drama, Sci-Fi",11830,Denis Villeneuve,43969,100500000,116,2016
+Billy Lynn's Long Halftime Walk,"Drama, Comedy",11916,Ang Lee,65383,1700000,108,2016
+Almost Christmas,"Other, Drama, Comedy",11021,David E. Talbert,71541,42000000,112,2016
+Shut In,Mystery & Thriller,0,Farren Blackburn,50659,6900000,91,2016
+Fantastic Beasts and Where to Find Them,"Fantasy, Adventure",11993,David Yates,47874,234000000,127,2016
+The Edge of Seventeen,"Drama, Comedy",0,Kelly Fremon,41802,14400000,105,2016
+Moana,"Animation, Kids & Family, Adventure, Musical, Comedy",11920,"John Musker, Ron Clements",51669,248800000,113,2016
+Allied,"Mystery & Thriller, History, War, Drama, Action, Romance",11989,Robert Zemeckis,66934,39800000,119,2016
+Bad Santa 2,"Other, Comedy",11791,Mark Waters,44412,17700000,92,2016
+Rules Don't Apply,"Romance, Drama, Comedy",11514,Warren Beatty,46829,3600000,121,2016
+La La Land,"Drama, Musical, Romance, Comedy",11709,Damien Chazelle,56744,151100000,128,2016
+Rogue One: A Star Wars Story,"Fantasy, Action, Adventure, Sci-Fi",11905,Gareth Edwards,77859,532200000,134,2016
+The Founder,"History, Biography, Drama",11701,John Lee Hancock,36830,12800000,115,2017
+Sing,"Kids & Family, Animation, Musical, Comedy",11720,Garth Jennings,49219,270400000,108,2016
+Patriots Day,"Crime, Mystery & Thriller, Drama",11902,Peter Berg,47333,31800000,130,2017
+A Monster Calls,"Fantasy, Adventure, Drama",11906,Juan Antonio Bayona,51763,2200000,108,2017
+Blackhat,"Mystery & Thriller, Action, Drama, Crime",11826,Michael Mann,53357,7800000,134,2015
+The Wedding Ringer,Comedy,10850,Jeremy Garelick,44954,64500000,101,2015
+Vice,"Biography, Drama, Comedy",11805,Adam McKay,47269,47800000,132,2018
+The Boy Next Door,Mystery & Thriller,11885,Rob Cohen,57877,35400000,90,2015
+Mortdecai,"Action, Adventure, Comedy",11329,David Koepp,48498,7700000,106,2015
+Strange Magic,"Animation, Fantasy, Kids & Family, Musical, Comedy",11340,Gary Rydstrom,41720,12400000,99,2015
+Black or White,Drama,10959,Mike Binder,59603,21600000,121,2015
+Project Almanac,"Mystery & Thriller, Sci-Fi",11253,Dean Israelite,36044,22300000,106,2015
+Jupiter Ascending,"Action, Adventure, Sci-Fi",0,"Lilly Wachowski, Lana Wachowski",44058,47400000,127,2015
+Seventh Son,"Fantasy, Adventure, Action",11044,Sergey Bodrov,62501,17200000,102,2015
+The SpongeBob Movie: Sponge Out of Water,"Adventure, Comedy, Kids & Family",11476,"Paul Tibbitt, Mike Mitchell",45105,163400000,92,2015
+Fifty Shades of Grey,"Drama, Romance",11700,Sam Taylor-Johnson,55012,166100000,125,2015
+Kingsman: The Secret Service,"Action, Adventure, Comedy",11886,Matthew Vaughn,48559,128200000,129,2015
+The DUFF,"Romance, Comedy",10424,Ari Sandel,57478,34000000,96,2015
+The Lazarus Effect,"Mystery & Thriller, Horror",10373,David Gelb,39549,25800000,83,2015
+Chappie,"Action, Mystery & Thriller, Sci-Fi",11713,Neill Blomkamp,53699,31600000,120,2015
+The Second Best Exotic Marigold Hotel,"Drama, Comedy",11725,John Madden,46749,33000000,122,2015
+Danny Collins,"Drama, Comedy",9524,Dan Fogelman,47618,5500000,106,2015
+The Divergent Series: Insurgent,"Sci-Fi, Action, Adventure",11838,Robert Schwentke,47204,130100000,118,2015
+The Gunman,"Mystery & Thriller, Action",11539,Pierre Morel,47893,10600000,115,2015
+While We're Young,"Drama, Comedy",10605,Noah Baumbach,48240,7600000,94,2015
+Furious 7,"Action, Adventure, Mystery & Thriller",11981,James Wan,49404,350800000,137,2015
+Ex Machina,"Mystery & Thriller, Drama, Sci-Fi",10858,Alex Garland,48281,25400000,107,2015
+Child 44,Mystery & Thriller,11496,Daniel Espinosa,45575,1200000,137,2015
+Paul Blart: Mall Cop 2,Comedy,11719,Andy Fickman,46397,71000000,94,2015
+True Story,"Crime, Mystery & Thriller, Drama",10551,Rupert Goold,51904,4700000,104,2015
+Little Boy,"War, History, Drama",0,Alejandro Monteverde,53758,6500000,106,2015
+Avengers: Age of Ultron,"Action, Adventure, Sci-Fi, Fantasy",11966,Joss Whedon,79780,459000000,141,2015
+Mad Max: Fury Road,"Action, Adventure",11862,George Miller,60544,153600000,120,2015
+Pitch Perfect 2,"Musical, Comedy",11561,Elizabeth Banks,47285,183700000,115,2015
+Poltergeist,"Mystery & Thriller, Horror",11405,Gil Kenan,38937,47300000,93,2015
+Tomorrowland,"Mystery & Thriller, Adventure, Sci-Fi",11978,Brad Bird,38369,93400000,129,2015
+San Andreas,"Action, Adventure, Mystery & Thriller",11874,Brad Peyton,44242,155200000,114,2015
+Love & Mercy,"Biography, Drama",9505,Bill Pohlad,44739,12500000,120,2015
+Jurassic World,"Action, Adventure, Mystery & Thriller, Sci-Fi",11915,Colin Trevorrow,44378,652600000,124,2015
+Dope,Comedy,9821,Rick Famuyiwa,55380,17500000,103,2015
+Max,"Adventure, Drama",11418,Boaz Yakin,33406,42700000,111,2015
+Ted 2,"Fantasy, Comedy",11783,Seth MacFarlane,70718,81300000,115,2015
+Terminator Genisys,"Action, Sci-Fi",11836,Alan Taylor,46602,89800000,126,2015
+Magic Mike XXL,"Drama, Comedy",6350,Gregory Jacobs,44729,66000000,115,2015
+Minions,"Kids & Family, Adventure, Animation, Comedy",11982,"Pierre Coffin, Kyle Balda",47655,336000000,91,2015
+Ant-Man,"Action, Adventure, Fantasy, Comedy",11919,Peyton Reed,48020,180200000,117,2015
+Mr. Holmes,"Mystery & Thriller, Drama",11968,Bill Condon,51467,17700000,105,2015
+Pixels,"Action, Fantasy, Adventure, Sci-Fi, Comedy",11985,Chris Columbus,48528,78700000,106,2015
+Southpaw,Drama,11880,Antoine Fuqua,40318,52400000,123,2015
+Paper Towns,"Mystery & Thriller, Adventure, Drama, Comedy",10929,Jake Schreier,50679,31900000,109,2015
+The Gift,Mystery & Thriller,10761,Joel Edgerton,55289,43800000,108,2015
+Ricki and the Flash,"Drama, Comedy",11739,Jonathan Demme,44219,26800000,100,2015
+Straight Outta Compton,"Biography, Drama, Music",11951,F. Gary Gray,56913,161000000,147,2015
+She's Funny That Way,"Romance, Comedy",11236,Peter Bogdanovich,43969,10640000,93,2015
+Hitman: Agent 47,"Action, Adventure",10864,Aleksander Bach,48428,22400000,96,2015
+Before We Go,"Romance, Drama, Comedy",5347,Chris Evans,35766,3700000,95,2015
+The Visit,"Mystery & Thriller, Horror, Comedy",11971,M. Night Shyamalan,42658,65100000,94,2015
+The Perfect Guy,Mystery & Thriller,10654,David M. Rosenthal,43526,57000000,100,2015
+Everest,"Mystery & Thriller, Adventure, Drama",0,Baltasar Kormákur,42881,43200000,121,2015
+Sicario,"Mystery & Thriller, Drama, Crime",11830,Denis Villeneuve,63241,46900000,121,2015
+99 Homes,Drama,7592,Ramin Bahrani,50879,1400000,110,2015
+The Intern,"Drama, Comedy",11877,Nancy Meyers,61729,75600000,121,2015
+Stonewall,"Lgbtq+, History, Drama",11984,Roland Emmerich,45236,18640000,129,2015
+Mississippi Grind,Drama,11843,"Ryan Fleck, Anna Boden",38026,12970000,108,2015
+The Walk,"Adventure, Biography, Drama",11989,Robert Zemeckis,58784,10100000,124,2015
+The Martian,"Adventure, Drama, Sci-Fi",11986,Ridley Scott,74305,228400000,142,2015
+Steve Jobs,"Biography, Drama",11812,Danny Boyle,46002,17800000,121,2015
+Pan,"Kids & Family, Adventure, Action, Fantasy",11754,Joe Wright,47191,35100000,111,2015
+Knock Knock,Mystery & Thriller,11565,Eli Roth,48813,3400000,99,2015
+Bridge of Spies,"Mystery & Thriller, History, Drama",11999,Steven Spielberg,62048,72300000,141,2015
+Crimson Peak,"Mystery & Thriller, Romance, Horror",11853,Guillermo del Toro,61731,31100000,119,2015
+Goosebumps,"Fantasy, Adventure, Comedy",11913,Rob Letterman,60710,80100000,103,2015
+Room,Drama,10369,Lenny Abrahamson,46672,14700000,118,2016
+Woodlawn,"Biography, History, Drama",0,The Erwin Brothers,52315,14400000,123,2015
+Rock the Kasbah,Comedy,11879,Barry Levinson,66670,3000000,106,2015
+Paranormal Activity: The Ghost Dimension,"Mystery & Thriller, Horror",10974,Gregory Plotkin,40476,18300000,88,2015
+Jem and the Holograms,"Drama, Musical",11891,Jon M. Chu,34535,2000000,118,2015
+The Last Witch Hunter,"Fantasy, Adventure, Action",11470,Breck Eisner,50696,27400000,106,2015
+Suffragette,"History, Biography, Drama",10401,Sarah Gavron,63819,4700000,106,2015
+I Smile Back,Drama,2534,Adam Salky,41491,5770000,85,2015
+Scouts Guide to the Zombie Apocalypse,"Comedy, Horror",11477,Christopher Landon,39190,3700000,93,2015
+Our Brand Is Crisis,Comedy,11698,David Gordon Green,35892,7000000,108,2015
+Burnt,Drama,10946,John Wells,63253,13700000,100,2015
+Brooklyn,"Drama, History, Romance",10859,John Crowley,45097,38300000,112,2015
+Spectre,"Action, Adventure, Mystery & Thriller",11970,Sam Mendes,73949,200100000,148,2015
+Spotlight,Drama,11204,Tom McCarthy,43576,45000000,128,2015
+The 33,Drama,11034,Patricia Riggen,45524,12000000,125,2015
+My All American,"Biography, Drama",7433,Angelo Pizzo,36619,2200000,118,2015
+Creed,Drama,11897,Ryan Coogler,48876,109700000,133,2015
+In the Heart of the Sea,"Action, Adventure, History, Drama",11987,Ron Howard,45316,23100000,116,2015
+The Big Short,"Drama, Comedy",11805,Adam McKay,49283,70200000,130,2015
+Star Wars: The Force Awakens,"Fantasy, Action, Adventure, Sci-Fi",11991,J.J. Abrams,49709,123,136,2015
+Concussion,"Biography, Drama",10574,Peter Landesman,38735,33800000,121,2015
+Daddy's Home,Comedy,11736,Sean Anders,66461,150300000,96,2015
+The Hateful Eight,Western,11936,Quentin Tarantino,70112,54100000,168,2015
