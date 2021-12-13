@@ -8,6 +8,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, precision_score, recall_score, precision_recall_curve,f1_score, fbeta_score
+
 iris_dataset = datasets.load_iris()
 X_train , X_test , y_train , y_test = train_test_split( iris_dataset['data'], iris_dataset['target'], \
                                                             test_size=.3, random_state=42)
