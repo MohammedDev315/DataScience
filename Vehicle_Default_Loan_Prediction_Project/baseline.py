@@ -28,10 +28,16 @@ print(f"Knn Train{model.score(X_train , y_train)}")
 print(f"Knn Val{model.score(X_vald , y_vald)}")
 y_pred = model.predict(X_vald)
 cf_matrix = confusion_matrix(y_vald, y_pred)
-print(cf_matrix)
-sns.heatmap(cf_matrix, annot=True)
+group_names = ['True Neg','False Pos','False Neg','True Pos']
+group_counts = ["{0:0.0f}".format(value) for value in
+                cf_matrix.flatten()]
+group_percentages = ['{0:.2%}'.format(value) for value in
+                     cf_matrix.flatten()/np.sum(cf_matrix)]
+labels = [f'{v1}\n{v2}\n{v3}' for v1, v2, v3 in
+          zip(group_names,group_counts,group_percentages)]
+labels = np.asarray(labels).reshape(2,2)
+sns.heatmap(cf_matrix, annot=labels, fmt='', cmap='Blues')
 plt.show()
-
 #%%
 model = LogisticRegression()
 model.fit(X_train , y_train)
@@ -39,9 +45,17 @@ print(f"Logistic Train{model.score(X_train , y_train)}")
 print(f"Logistic Val{model.score(X_vald , y_vald)}")
 y_pred = model.predict(X_vald)
 cf_matrix = confusion_matrix(y_vald, y_pred)
-print(cf_matrix)
-sns.heatmap(cf_matrix, annot=True)
+group_names = ['True Neg','False Pos','False Neg','True Pos']
+group_counts = ["{0:0.0f}".format(value) for value in
+                cf_matrix.flatten()]
+group_percentages = ['{0:.2%}'.format(value) for value in
+                     cf_matrix.flatten()/np.sum(cf_matrix)]
+labels = [f'{v1}\n{v2}\n{v3}' for v1, v2, v3 in
+          zip(group_names,group_counts,group_percentages)]
+labels = np.asarray(labels).reshape(2,2)
+sns.heatmap(cf_matrix, annot=labels, fmt='', cmap='Blues')
 plt.show()
+
 
 
 
