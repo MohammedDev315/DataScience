@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import log_loss
+from sklearn.model_selection import GridSearchCV
+
 #%%
 df = pd.read_csv("data/MIMIC_Data_small.csv")
 print(df.columns)
