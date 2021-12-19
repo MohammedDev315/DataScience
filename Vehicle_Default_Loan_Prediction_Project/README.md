@@ -5,14 +5,14 @@ Financial institues are suffering from significant loses due to car loan default
 In our project, we try to hypothesize if we can accurately predict the possibility that the loanee/borrower will default on the car loan. 
 
 ## Data Description
-Our data is fetched from Kaggle website that contains information about loanee (Demographics such as age, income, etc.), loan itself (amount, loan to value ratio, Equated Monthly Installments, etc.) and information from the bureau (Bureau score, number of active accounts, status of other loans, credit history, etc.). There is no disclosure about the origin of the data (i.e country) but from our column investigation, it turns out to be from India. Based on that assumption which is not fully verified, we will treat it has undisclosed.
+Our data is fetched from Kaggle website that contains information about loanee (Demographics such as age, income, etc.), loan itself (amount, loan to value ratio, Equated Monthly Installments, etc.) and information from the bureau (Bureau score, number of active accounts, status of other loans, credit history, etc.). There is no disclosure about the origin of the data (i.e country) but from our column investigation, it turns out to be from India. Based on that assumption which is not fully verified, we will treat it as undisclosed.
 
-There are approximately 230k+ rows and 41 columns in the dataset. A brief data description can be found below:
+There are approximately 230k+ rows and 41 columns in the dataset. Data description goes as follows:
 
 | Variable Name                       | Description                                                                        |
 |-------------------------------------|------------------------------------------------------------------------------------|
 | UniqueID                            | Identifier for customers                                                           |
-| loan_default                        | "Payment default in the first EMI on due date, 1 for default"                      |
+| <mark>loan_default</mark>                        | <mark>"Payment default in the first EMI on due date, 1 for default"</mark>                      |
 | disbursed_amount                    | Amount of Loan disbursed                                                           |
 | asset_cost                          | Cost of the Asset                                                                  |
 | ltv                                 | Loan to Value of the asset                                                         |
@@ -62,5 +62,6 @@ The prediction is going to be delivered on an IPython Notebook using Cookiecutte
 * Scikit-learn
 * Matplotlib
 * Seaborn
+* Tableau
 * Flask - Deploying model through Heroku
 
