@@ -3,7 +3,7 @@ from wtforms import Form, RadioField, StringField, PasswordField, validators , S
 class InputForm(Form):
      DISBURSED_AMOUNT = StringField('DISBURSED_AMOUNT')
      ASSET_COST = StringField('ASSET_COST')
-     PRI_NO_OF_ACCTS = StringField('PRI_NO_OF_ACCTS')
+     PRI_DISBURSED_AMOUNT = StringField('PRI_DISBURSED_AMOUNT')
      PRI_ACTIVE_ACCTS = StringField('PRI_ACTIVE_ACCTS')
      PRI_OVERDUE_ACCTS = StringField('PRI_OVERDUE_ACCTS')
      PRI_CURRENT_BALANCE = StringField('PRI_CURRENT_BALANCE')
@@ -17,8 +17,10 @@ class InputForm(Form):
      DISBURSAL_DATE_DAYS_Day = StringField('DISBURSAL_DATE_DAYS_Day')
      DISBURSAL_DATE_DAYS_Month = StringField('Month')
      DISBURSAL_DATE_DAYS_Year = StringField('Year')
-     EMPLOYMENT_TYPE = StringField('EMPLOYMENT_TYPE')
-     Risk = RadioField(choices = [('Low',  1 ), ('Medium', 1), ('High', 1), ('Very High', 1)])
+     EMPLOYMENT_TYPE = RadioField(choices = [(  0 ,  'EMPLOYED' ), (1,  'SELF-EMPLOY')])
+     Risk = RadioField(choices = [(  1 ,  'Low' ), ( 2 ,  'Medium'), ( 3 , 'High'), ( 4 , 'Very High')])
      submitButton = SubmitField('Submit')
+
+
 
 

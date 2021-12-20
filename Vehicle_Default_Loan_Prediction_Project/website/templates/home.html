@@ -17,7 +17,7 @@
 </head>
 <body>
 
-    <div style="max-width: 500;">
+    <div>
         <div style="text-align: center ;">
               <h1 style="color: dodgerblue ; margin-top: 20px;">Vehicle Loan Default Predictor</h1>
         </div><!---EndTitle--->
@@ -25,16 +25,22 @@
            
         </div><!---EndResult--->
         <div style="">
+
+          
         
          <form method="post">
             <div style="max-width: 500px ; padding: 10px; margin: auto;">
-            
+                {% if result == 0%}
+                  <h5 style="color: red;">Your are not able to take loan</h5>
+                {% endif %}
+                {% if result == 1 %}
+                  <h5>Your are not able to take loan</h5>
+                {% endif %}
                 <!------------->
                 <div class="form-group">
                   <label for="email">DISBURSED AMOUNT</label>
                   {{form.DISBURSED_AMOUNT(class="form-control")}}
                 </div> 
-
                 <!------------->
                 <div class="form-group">
                   <label for="email">ASSET COST</label>
@@ -42,13 +48,8 @@
                 </div> 
                 <!------------->
                 <div class="form-group">
-                  <label for="email">ASSET COST</label>
-                  {{form.ASSET_COST(class="form-control")}}
-                </div> 
-                <!------------->
-                <div class="form-group">
-                  <label for="email">PRI NO OF ACCTS</label>
-                  {{form.PRI_NO_OF_ACCTS(class="form-control")}}
+                  <label for="email">PRI DISBURSED AMOUNT</label>
+                  {{form.PRI_DISBURSED_AMOUNT(class="form-control")}}
                 </div> 
                 <!------------->
                 <div class="form-group">
@@ -61,15 +62,10 @@
                   {{form.PRI_OVERDUE_ACCTS(class="form-control")}}
                 </div> 
                 <!------------->
-                <div class="form-group">
-                  <label for="email">PRI OVERDUE ACCTS</label>
-                  {{form.PRI_OVERDUE_ACCTS(class="form-control")}}
-                </div> 
-                <!------------->
-                <div class="form-group">
+                <!-- <div class="form-group">
                   <label for="email">PRI CURRENT BALANCE</label>
                   {{form.PRI_CURRENT_BALANCE(class="form-control")}}
-                </div> 
+                </div>  -->
                 <!------------->
                 <div class="form-group">
                   <label for="email">PRIMARY INSTAL AMT</label>
@@ -99,18 +95,26 @@
                 </div>
                  <br>
                 <!------------->
-                <div style="display: inline-block">
+                <br>
+                <!-- <div style="display: inline-block">
                   <h5>DISBURSAL DATE</h5>
                   Day {{form.LOANEE_DOB_DAYS_DAY(class="form-control" , style="width: 60px"  )}}
                   Month {{form.DISBURSAL_DATE_DAYS_Month(class="form-control" , style="width: 60px"  )}}
                   Year {{form.DISBURSAL_DATE_DAYS_Year(class="form-control" , style="width: 60px"  )}}
-                </div>
+                </div> -->
+
+                 <br>
                  <br>
                 
                 <!------------->
                 <div class="form-group">
+                  <label for="email">EMPLOYMENT TYPE</label>
+                  {{form.EMPLOYMENT_TYPE()}}
+                </div> 
+                <!------------->
+                <div class="form-group">
                   <label for="email">RISK</label>
-                  {{form.Risk(class="form-control" )}}
+                  {{form.Risk()}}
                 </div> 
 
 
