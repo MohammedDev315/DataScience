@@ -2,11 +2,11 @@
 #  
 
 ## Abstract and inspiration 
-* Not all people have the ability to know what type of diseases they have, especially at an early stage of diseases. So their cases might become very harmful and very complex, and can not be treated easily. In this project, we will try to help those people who thay fight to figuer out the kind of pain they feel by providing a simple way that might help them with trusted sources to get ideas about their conditions and how dangerous it is.
+* The medical field has become more sophisticated and advanced than it was previously, but early diagnosis of diseases helps reduce the consequences of complications, that's thing inspired us and we recognized some people haven't the ability to know what type of diseases they have, especially at an early stage of diseases. So their cases might become very harmful and very complex, and can not be treated easily. In this project, we will try to help those people who struggle to figure out the kind of pain they feel by providing a simple way that might help them with trusted sources to get ideas about their conditions and how dangerous it is.
 
 
 ## Data:
-* This book "Professional Guide to Diseases 11th edition"  will be used as a source for this project and all necessary information will be extended from it. 
+* In order to achieve the project objective, we will use one of the trusted books in the field and one of that books is "Professional Guide to Diseases 11th edition". The book contains over 2900 pages that will be used as a source/reference for this project and all necessary information will be extended from it.
 
 
 ## Tools and python packages
