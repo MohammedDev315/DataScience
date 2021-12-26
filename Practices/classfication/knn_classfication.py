@@ -1,18 +1,13 @@
 #%%
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.metrics import classification_report, confusion_matrix, precision_recall_curve,  precision_score, recall_score, accuracy_score, roc_auc_score
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score
-from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import GridSearchCV
 from sklearn.neighbors import KNeighborsClassifier
 
 df_train = pd.read_csv("data/wookiee-train.csv")
 df_test = pd.read_csv("data/wookiee-test.csv")
 print(df_train.columns)
+#%%
+print(df_train.shape)
 #%%
 X_train = df_train.drop(["wookieecolor" , "Unnamed: 0"] , axis=1)
 y_train = df_train["wookieecolor"]
