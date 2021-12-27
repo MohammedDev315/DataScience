@@ -15,6 +15,7 @@ categories = ['alt.atheism', 'comp.graphics', 'rec.sport.baseball',
 ng_train = datasets.fetch_20newsgroups(subset='train', categories=categories,
                                       remove=('headers', 'footers', 'quotes'))
 
+#%%
 # Throw it into a dataframe
 df = pd.DataFrame({'data':ng_train['data'], 'target':ng_train['target']})
 df.target = df.target.map({i:v for i, v in enumerate(ng_train['target_names'])})

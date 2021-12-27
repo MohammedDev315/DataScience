@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 
 #%%
-file_path = "/Volumes/Lexar/DataScience/Disease_Diagnosis_NLP_Project/experiment_files/OTITIS_SINUS.csv"
+file_path = "/Volumes/Lexar/DataScience/Disease_Diagnosis_NLP_Project/experiment_files/Data/OTITIS_SINUS.csv"
 df = pd.read_csv(file_path , names=["Label", "Disease"])
 print(df.head())
 
@@ -43,8 +43,18 @@ lr.fit(X_train_cv1, y_train)
 y_pred_cv1 = lr.predict(X_test_cv1)
 lr.fit(X_train_cv2, y_train)
 y_pred_cv2 = lr.predict(X_test_cv2)
+
 #%%
 print(X_test)
+print(X_test_cv2)
 print("-------")
+print(y_pred_cv1)
 print(y_pred_cv2)
 
+#%%
+print(X_test)
+#%%
+X_test = ["Itching in your ear canal. Slight redness inside your ear pinna or auricle odorless fluid"]
+X_test_cv3  = cv2.transform(X_test)
+y_pred_cv3 = lr.predict(X_test_cv3)
+print(y_pred_cv3)
